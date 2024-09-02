@@ -5,5 +5,3 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,alpinejs,laravel,livewire" />
 
 
-<h4>What i learn now :</h4>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vue,inertia,nuxt,react" />
