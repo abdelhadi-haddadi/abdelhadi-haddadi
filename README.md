@@ -5,7 +5,6 @@ I'm Abdelhadi, a Full-Stack Developer from Morocco passionate about building mod
 
 ## Tech Stack Visual
 
-### Stack :
 [![Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,php,js,ts,react,next,laravel,tailwind,postgres,vscode,postman,claude)](https://skillicons.dev)
 
 
