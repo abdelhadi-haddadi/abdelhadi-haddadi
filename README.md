@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Abdelhadi HADDADI, a Full-Stack Developer from Morocco passionate about building modern web applications with Laravel, Next.js, React, and Rust.
+I'm Abdelhadi HADDADI, a Full-Stack Developer from Morocco passionate about building modern web applications with Laravel, Next.js, React.
 
 
 ## Tech Stack Visual
